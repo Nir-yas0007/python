@@ -15,3 +15,14 @@ print("Addition =",Addition)       #Printing the results
 print("Subtraction =",Subtraction)
 print("Multiplication =",Multiplication)
 print("Division =",Division)
+
+
+
+#Task 2
+
+
+
+First_Name=input("Enter First Name:")    #defining Variable
+Last_Name=input("Enter Last Name:")
+Name= First_Name+" "+Last_Name            #performing string operation
+print("Hello " + Name + "! Welcome to Python program.")   #printing the result
